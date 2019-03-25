@@ -1,3 +1,6 @@
+# Copyright 2019 - Present Team Binary. All Rights Reserved.
+# MIT LICENSE
+
 cmake_minimum_required(VERSION 2.8.3)
 project(camera_info_publisher)
 

@@ -1,6 +1,6 @@
 *.py[cod]
 
-build
-devel
-
-profile.tmp
+ros/build
+ros/devel
+traffic_light_bag_file/*
+traffic_light_bag_file.zip
